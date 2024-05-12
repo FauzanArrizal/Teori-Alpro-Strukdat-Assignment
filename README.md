@@ -1,4 +1,4 @@
-# Teori-Alpro-Strukdat-Assignment
+<h1 align="center">Teori-Alpro-Strukdat-Assignment</h1>
 
 <h1 align="center">Informasi Mahasiswa</h1>
 
